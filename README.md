@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=B897FF,5E4AE3&height=200&section=header&text=Welcome,%20HanBin's%20GitHub&fontSize=60&textColor=000000" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=B897FF,5E4AE3&height=300&section=header&text=Welcome,%20HanBin's%20GitHub&fontSize=80&textColor=ffffff" />
-</p>
 
 
 <div>

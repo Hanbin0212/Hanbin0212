@@ -13,19 +13,37 @@
   <br/>
   <br/>
 
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
-    <div align= "center"> <a href=https://티 스 토 리 주 소> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://티 스 토 리 주 소"> </a>
-         <a href=노 션 아 이 디> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link= 메 일 주 소"> </a>
-         <a href=https://www.instagram.com/인스타그램 아이디> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/인 스 타 아 이 디"> </a>
-         <a href=mailto:메 일 주 소> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:메 일 주 소"> </a>
-          </div><br>
-    <div align= "center">  </div> 
-    <h2 align="center">📧 Email 📧</h2>
-<p align="center">
-  <Strong> 자 신 의 이 메 일 아 이 디 </Strong>
-</p><br>
-<div align= "center">
+<div align="left">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact Me 🧑‍💻 </h2>
+
+  <!-- 네이버 메일 -->
+  <a href="mailto:param0212@naver.com">
+    <img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver Mail Badge"/>
+  </a>
+
+  <!-- 네이버 블로그 -->
+  <a href="https://blog.naver.com/mapping1028" target="_blank">
+    <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver Blog Badge"/>
+  </a>
+
+  <!-- 노션 -->
+  <a href="https://lake-angelfish-17f.notion.site/BE-1b5e42aaa967808ea264f82c75472652" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion Badge"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Hanbin0212" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
+  </a>
+
+  <br/><br/>
+
+  <h3>📧 Email 📧</h3>
+  <p><strong>param0212@naver.com</strong></p>
+</div>
+
+
+
 
 
   

@@ -16,7 +16,7 @@
   <br/>
 
 <div align="left">
-  <h2>🧑‍💻 Contact Me 🧑‍💻 <small>(param0212@naver.com)</small></h2>
+  <h2>🧑‍💻 Contact Me  <small>(param0212@naver.com)</small></h2>
   
   <!-- 네이버 블로그 -->
   <a href="https://blog.naver.com/mapping1028" target="_blank">
@@ -37,7 +37,7 @@
   <br/>
   <br/>
   
-## 🧱 Tech Stack
+## 📦 Tech Stack
 
 ### 💻 Language  
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
@@ -75,7 +75,7 @@
 
 
   
-## 🤔 Github Stats
+## 🔍 Github Stats
 
 [![Hanbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanbin0212&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 <br/>

@@ -16,11 +16,6 @@
 <div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact Me 🧑‍💻 </h2>
 
-  <!-- 네이버 메일 -->
-  <a href="mailto:param0212@naver.com">
-    <img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver Mail Badge"/>
-  </a>
-
   <!-- 네이버 블로그 -->
   <a href="https://blog.naver.com/mapping1028" target="_blank">
     <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver Blog Badge"/>
@@ -36,13 +31,13 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
   </a>
 
-  <br/><br/>
+  <br/>
 
   <h3>📧 Email 📧</h3>
   <p><strong>param0212@naver.com</strong></p>
 </div>
 
-
+ <br/>
 
   
   ## 🧱 Tech Stack
